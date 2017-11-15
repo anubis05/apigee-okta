@@ -16,21 +16,21 @@ https://www.okta.com/
 http://apigee.com/
 
 
-#What's going on here?
+# What's going on here?
 Currently it contains the following projects:
 
 -  Apigee-Okta OIDC based integration
 -  OAuth based validation of protected APIs
 
-#Support
+# Support
 
 This is an open-source project of the Apigee Corporation. It is not covered by Apigee support contracts. However, we will support you as best we can. For help, please open an issue in this GitHub project, or ask on community. You are also always welcome to submit a pull request.
 
-#License
+# License
 
 This project and all the code contained within is licensed under the Apache 2.0 Source license.
  
-#Next steps
+# Next steps
 
 Further projects which can be hosted here includes but is not limited to:
 
